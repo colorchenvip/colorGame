@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/color/workspace/eclipse_colorwork/ColorGame/libs/YoumiSdk_v5.00_2015-01-08.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ab20e3ec99d7ad827d7aad3b0f7d346752c7948">
+        <dex dex="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/pre-dexed/debug/YoumiSdk_v5.00_2015-01-08_e8703428f560f6113f4473ee16fe2f6406b6bdfb.jar" />
+    </item>
+    <item
+        jar="/Users/color/workspace/eclipse_colorwork/ColorGame/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/pre-dexed/debug/android-support-v4_3478895e0fcc3d365dfd7b841c211173e4f50a4f.jar" />
+    </item>
+    <item
+        jar="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a9f0e4b5396a8a7062bc170cc7b59fbde46777f1">
+        <dex dex="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/pre-dexed/debug/instant-run_b367e0a7ec1c0ad4f6b7d0902410f42ad24d9c9c.jar" />
+    </item>
+    <item
+        jar="/Users/color/workspace/eclipse_colorwork/ColorGame/libs/xUtils-2.6.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c36413ba62fd6433e117bd58fe9264f3a1141a6">
+        <dex dex="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/pre-dexed/debug/xUtils-2.6.11_38a7fe6aa13a931f089c3a65915a1850db2ab733.jar" />
+    </item>
+    <item
+        jar="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9986f5e8be3a0b7a43398fbcd4e2daaf02c18034">
+        <dex dex="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/pre-dexed/debug/classes_af7e317aefcb5830f1a5fc56326d7ba28034b17b.jar" />
+    </item>
+    <item
+        jar="/Users/color/workspace/eclipse_colorwork/ColorGame/libs/universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29cf65d299e133ec68caba92b29f69289713975b">
+        <dex dex="/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-SNAPSHOT_bad73d5089d2c61da0c532eb3dd42a415616dc88.jar" />
+    </item>
+
+</items>

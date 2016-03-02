@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimTop2</item>
+        <item name="android:windowFrame">@null</item>
+ <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+ <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+ <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+ <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+ <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+ <!-- 模糊 -->
+    </style>
+
+    <style name="AnimTop2" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in2</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out2</item>
+    </style>
+
+    <!-- 横线 -->
+    <style name="line">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#dedede</item>
+    </style>
+
+    <style name="dialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="MMTabButton">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/bg_checkbox_menus</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">#FF414c58</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:paddingTop">2.0dip</item>
+    </style>
+    <!-- **********把TextView中的文字添加阴影效果及Style的使用********* -->
+    <style name="StyleBarTitle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <!-- 对话框 -->
+    <style name="MyDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="dot_style">
+        <item name="android:layout_width">5dip</item>
+        <item name="android:layout_height">5dip</item>
+        <item name="android:background">@drawable/dot_normal</item>
+        <item name="android:layout_marginLeft">1.5dip</item>
+        <item name="android:layout_marginRight">1.5dip</item>
+    </style>
+
+    <style name="home_dots">
+        <item name="android:layout_width">10dip</item>
+        <item name="android:layout_height">10dip</item>
+        <item name="android:background">@drawable/dot_normal</item>
+        <item name="android:layout_marginLeft">5dip</item>
+    </style>
+
+    <style name="price">
+        <item name="android:textColor">#FF3300</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- 标题字体样式 -->
+    <style name="title">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="gwc">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="gwc_all_money_one">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="gwc_all_money">
+        <item name="android:textColor">#FF5151</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="person">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="size_12">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="size_14">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="size_14_white">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="size_16">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="size_18">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="size_18_white">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="size_16_white">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="size_18_blue">
+        <item name="android:textColor">#068df7</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="size_18_gray006">
+        <item name="android:textColor">#1E1E1E</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="size_14_gray006">
+        <item name="android:textColor">#1E1E1E</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="size_16_gray006">
+        <item name="android:textColor">#1E1E1E</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="size_16_gray">
+        <item name="android:textColor">#B4B4B4</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="size_16_gray002">
+        <item name="android:textColor">#A2A2A2</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="size_16_gray003">
+        <item name="android:textColor">#2e2e2e</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="size_12_gray007">
+        <item name="android:textColor">#979797</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="size_14_gray003">
+        <item name="android:textColor">#2e2e2e</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="size_12_gray">
+        <item name="android:textColor">#B4B4B4</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="size_12_gray008">
+        <item name="android:textColor">#5e5e5e</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="size_20">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="size_22">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">22dp</item>
+    </style>
+
+    <style name="size_24">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+
+    <style name="size_30">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+    <style name="person_one">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="image_click">#d6e5fd</color>
+    <color name="activity_bg">#fff2f2f2</color>
+
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+
+    <!-- 字体点击颜色 -->
+    <color name="text_click">#94cdff</color>
+
+    <!-- 灰色 -->
+    <color name="gray001">#edeeef</color>
+    <color name="grayLine002">#B4B4B4</color>
+    <color name="gray005">#F5F5F5</color>
+    <color name="gray008">#6c6c6c</color>
+    <color name="gray009">#a6a5a5</color>
+    <color name="gray010">#939393</color>
+    <color name="gray011">#337f7f7f</color>
+    <!-- 主颜色  Activity字体颜色 -->
+    <color name="gray006">#1E1E1E</color>
+    <!-- 主颜色  Activity字体颜色 浅 -->
+    <color name="gray003">#2e2e2e</color>
+    <!-- 主颜色  Activity字体颜色  更浅 -->
+    <color name="gray007">#979797</color>
+
+    <!-- gridview分割线颜色值 -->
+    <color name="gray004">#dedede</color>
+
+    <!-- 黑色 -->
+
+    <color name="black">#000000</color>
+
+    <!-- 黑色  85%透明 -->
+    <color name="black_1">#d8000000</color>
+
+    <!-- 蓝色 -->
+
+    <color name="blue">#0672d0</color>
+    <color name="blue_click">#2d86de</color>
+
+    <!-- 主界面圆点选中的颜色 -->
+    <color name="blue009">#272f35</color>
+
+    <!-- 白色 -->
+
+    <color name="white">#FFFFFF</color>
+    <!-- 控件点击效果 -->
+    <color name="white_click">#abe3ff</color>
+
+    <!-- 橘色 -->
+    <color name="orange">#FF583C</color>
+    <!-- 加入购物车按钮颜色 -->
+    <color name="orange_1">#ff875c</color>
+    <!-- 加入购物车按钮点击颜色 -->
+    <color name="orange_2">#d6948f</color>
+
+    <!-- 提交订单按钮颜色 -->
+    <color name="orange_3">#ff783d</color>
+    <!-- 提交订单按钮点击颜色 -->
+    <color name="orange_4">#d68a7a</color>
+
+    <!-- 红色 -->
+    <!-- 立即下单按钮颜色 -->
+    <color name="red_1">#fc4545</color>
+    <!-- 立即下单按钮点击颜色 -->
+    <color name="red_2">#d4677f</color>
+
+    <!-- 红色 -->
+
+    <color name="red">#FF0000</color>
+    <color name="red1">#fc4545</color>
+    <color name="red2">#d4677f</color>
+    <!-- 黄色 -->
+    <color name="yellow">#ff9933</color>
+    <!-- 取消定制颜色 -->
+    <color name="green">#009e96</color>
+    <color name="green1">#29a3b6</color>
+    <!-- 致电客服颜色 -->
+    <color name="yellow1">#ffc274</color>
+    <color name="yellow2">#d6bc9f</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+
+</resources>

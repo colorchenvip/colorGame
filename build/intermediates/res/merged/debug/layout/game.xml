@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/game_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/adLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <include
+        android:id="@+id/view"
+        layout="@layout/head_layout"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <com.color.colorGame.MyScrollLayout
+            android:id="@+id/scrollLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="60dp" >
+
+            <RelativeLayout
+                android:id="@+id/diceView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <RelativeLayout
+                    android:id="@+id/diceLayout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="80dp"
+                    android:background="@drawable/dice_bg" >
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_above="@+id/basinBg" >
+
+                        <LinearLayout
+                            android:layout_width="50dp"
+                            android:layout_height="51dp"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/num_bg"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="42dp"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="5dp" >
+
+                                <ImageView
+                                    android:id="@+id/leftNum"
+                                    android:layout_width="21dp"
+                                    android:layout_height="fill_parent"
+                                    android:background="@drawable/num_0" />
+
+                                <ImageView
+                                    android:id="@+id/rightNum"
+                                    android:layout_width="21dp"
+                                    android:layout_height="fill_parent"
+                                    android:background="@drawable/num_0" />
+                            </LinearLayout>
+
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="50dp"
+                            android:layout_height="51dp"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/num_bg1"
+                            android:orientation="vertical" >
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                    <ImageView
+                        android:id="@+id/basinBg"
+                        android:layout_width="181dp"
+                        android:layout_height="163dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/basin" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_below="@+id/basinBg"
+                        android:gravity="center" >
+
+                        <Button
+                            android:id="@+id/dice_start"
+                            android:layout_width="122dp"
+                            android:layout_height="40dp"
+                            android:background="@drawable/shake_start" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/dice1"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/d1" />
+
+                    <ImageView
+                        android:id="@+id/dice2"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_alignTop="@+id/dice1"
+                        android:layout_toLeftOf="@+id/dice1"
+                        android:background="@drawable/d2" />
+
+                    <ImageView
+                        android:id="@+id/dice3"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_alignTop="@+id/dice1"
+                        android:layout_toRightOf="@+id/dice1"
+                        android:background="@drawable/d3" />
+
+                    <ImageView
+                        android:id="@+id/dice4"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_alignRight="@+id/dice1"
+                        android:layout_below="@+id/dice1"
+                        android:background="@drawable/d4" />
+
+                    <ImageView
+                        android:id="@+id/dice5"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_below="@+id/dice1"
+                        android:layout_toRightOf="@+id/dice1"
+                        android:background="@drawable/d5" />
+
+                    <ImageView
+                        android:id="@+id/dice6"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_below="@+id/dice1"
+                        android:layout_toLeftOf="@+id/dice1"
+                        android:background="@drawable/d6" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:layout_alignParentTop="true"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/diceNum"
+                        style="@style/size_14_white"
+                        android:layout_width="136dp"
+                        android:layout_height="34dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/listitem"
+                        android:gravity="center_vertical|left"
+                        android:paddingLeft="10dp" />
+
+                    <Button
+                        android:id="@+id/triangle"
+                        android:layout_width="34dp"
+                        android:layout_height="34dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@drawable/triangle" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/wineView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_above="@+id/wineLayout"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/wine_desc"
+                        android:layout_width="260dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/diban_02"
+                        android:gravity="center"
+                        android:paddingBottom="5dp"
+                        android:paddingTop="5dp"
+                        android:text="请开始游戏"
+                        android:textColor="#FFFFFF"
+                        android:textSize="26dp" />
+                </LinearLayout>
+
+                <FrameLayout
+                    android:id="@+id/wineLayout"
+                    android:layout_width="300dp"
+                    android:layout_height="192dp"
+                    android:layout_centerInParent="true" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/youxi_09" >
+
+                        <com.color.colorGame.WheelView
+                            android:id="@+id/leftView"
+                            android:layout_width="75dp"
+                            android:layout_height="fill_parent"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="21dip"
+                            android:layout_marginTop="10dp" />
+
+                        <com.color.colorGame.WheelView
+                            android:id="@+id/middle"
+                            android:layout_width="75dp"
+                            android:layout_height="fill_parent"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="13dip"
+                            android:layout_marginTop="10dp" />
+
+                        <com.color.colorGame.WheelView
+                            android:id="@+id/rightView"
+                            android:layout_width="75dp"
+                            android:layout_height="fill_parent"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="13dip"
+                            android:layout_marginTop="10dp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/kuan_03" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_below="@+id/wineLayout"
+                    android:gravity="center" >
+
+                    <Button
+                        android:id="@+id/wine_start"
+                        android:layout_width="122dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/game_start" />
+                </LinearLayout>
+            </RelativeLayout>
+        </com.color.colorGame.MyScrollLayout>
+
+        <LinearLayout
+            android:id="@+id/diceItem"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="44dp"
+            android:gravity="center" >
+
+            <ListView
+                android:id="@+id/listView"
+                android:layout_width="136dp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_gravity="top"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/triangle"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/group"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal|top"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/dice"
+                android:layout_width="94dp"
+                android:layout_height="40dp"
+                android:background="@drawable/dice"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/wine"
+                android:layout_width="94dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/wine_game"
+                android:button="@null" />
+        </RadioGroup>
+    </RelativeLayout>
+
+</LinearLayout>

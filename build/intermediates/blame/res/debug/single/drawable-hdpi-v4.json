@@ -1,0 +1,802 @@
+[
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_checkbox.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/search_checkbox.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_2.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_2.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine_game_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine_game_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/personaltailor.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/personaltailor.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/triangle_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/triangle_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shop_unselect.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shop_unselect.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/listitem_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/listitem_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_logo_tenc.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_logo_tenc.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/addser.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/addser.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shuaxin_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shuaxin_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_bg.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/filter_bg.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/rectangle_shade.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/rectangle_shade.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/background01.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/background01.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_select.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/share_select.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_hebei.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_hebei.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_left.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_left.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/select_true.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/select_true.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_08.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_08.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo_text.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/logo_text.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/baiban_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/baiban_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_wine.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/search_wine.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_femail.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_femail.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_02.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_02.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuiangle_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/tuiangle_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dice_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dice_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/price_up.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/price_up.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_4.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_4.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/tool.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/tool.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dingzhi.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dingzhi.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/bj.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/bj.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_12.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_12.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_2.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_2.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/share_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_yiqi.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_yiqi.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrows_down.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/arrows_down.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/msp_demo_title.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/msp_demo_title.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shadow_01.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shadow_01.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine06.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine06.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_left.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/chat_left.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_5.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_5.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_blue.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/search_blue.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/d1.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/d1.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_send_button_sel.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_send_button_sel.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_bg1.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_bg1.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/daijin.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/daijin.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/return_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/return_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/message.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/message.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/youxi_09.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/youxi_09.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_bg_shareitem_sel.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_bg_shareitem_sel.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo_bg.jpg",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/logo_bg.jpg"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/git_star.jpg",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/git_star.jpg"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/guide_03.jpg",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/guide_03.jpg"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/guide_02.jpg",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/guide_02.jpg"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/baoguang.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/baoguang.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_wu.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_wu.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine05.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine05.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/straw.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/straw.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_d_white.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/arrow_d_white.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_start_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_start_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/filter.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/d4.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/d4.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/create_order_succed_bg.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/create_order_succed_bg.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/tan_07.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/tan_07.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantityordered.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/quantityordered.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/xunjiu.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/xunjiu.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_trans.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/mm_trans.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_changshou.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_changshou.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/qt.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/qt.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/d5.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/d5.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine04.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine04.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/feedback.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/feedback.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dingzhi_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dingzhi_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shop_check_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shop_check_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/back01.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/back01.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dice_bg.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dice_bg.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/comment_star_red.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/comment_star_red.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_01.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_01.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/addaddress_clc.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/addaddress_clc.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wochacha_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wochacha_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_06.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_06.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/price_down.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/price_down.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_hejiu.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_hejiu.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_07.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_07.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_logo_sina.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_logo_sina.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/leisure.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/leisure.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine_center.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine_center.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/person_setting.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/person_setting.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/listitem_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/listitem_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_suiyi.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_suiyi.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/qrcode_scan_line.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/qrcode_scan_line.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/weixin.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/weixin.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrows_right.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/arrows_right.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/return_.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/return_.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_changge.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_changge.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dollor.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dollor.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/sys.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/sys.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/collect_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/collect_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_start_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_start_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine01.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine01.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/paint.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/paint.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/msp_demo_title_bg.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/msp_demo_title_bg.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/kuan_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/kuan_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel_order.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/cancel_order.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_pressed.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shake_pressed.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/star_5.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/star_5.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/help.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/help.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dice_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dice_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/address_sec.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/address_sec.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/search.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_tiao.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_tiao.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/vocher_.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/vocher_.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_promotion01.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/menu_promotion01.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_send_button_nor.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_send_button_nor.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/friendcircle.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/friendcircle.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/collect_unclick.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/collect_unclick.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine_center_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine_center_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine02.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine02.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/diban_02.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/diban_02.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/youxi_icon.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/youxi_icon.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/select_false.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/select_false.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/vocher_s.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/vocher_s.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_0.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_0.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_zhiding.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_zhiding.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_qi.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_qi.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/gray_star.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/gray_star.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_05.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_05.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_right.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_right.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_function_bg.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/title_function_bg.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/humos_game.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/humos_game.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_head.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/chat_head.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/dingw_06.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/dingw_06.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/addaddress.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/addaddress.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/d3.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/d3.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/mark_blue.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/mark_blue.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_d_blue.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/arrow_d_blue.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_09.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_09.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/wine_game_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/wine_game_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/tan_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/tan_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/unread.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/unread.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/personal_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/personal_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_1.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_1.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/location1.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/location1.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/filter_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo_bottom.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/logo_bottom.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/reduce_unenable.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/reduce_unenable.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/unselect.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/unselect.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_promotion02.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/menu_promotion02.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/geo_back.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/geo_back.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_bg.jpg",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_bg.jpg"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/mark_white.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/mark_white.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/collect_select.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/collect_select.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_white.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/search_white.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_10.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_10.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/drop.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/drop.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/present.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/present.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/personal.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/personal.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/d2.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/d2.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_ziji.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_ziji.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_3.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_3.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_7.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_7.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/xunjiu_03.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/xunjiu_03.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_6.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_6.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_right.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/chat_right.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/d6.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/d6.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_xiaohua.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_xiaohua.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shake_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_8.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_8.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/shop_select.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/shop_select.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/guide_01.jpg",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/guide_01.jpg"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/person_djq.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/person_djq.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_unclick.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/share_unclick.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/walk_default.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/walk_default.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_04.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_04.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/reduce_select.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/reduce_select.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_bg.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_bg.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/call_merchant.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/call_merchant.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/reduce_default.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/reduce_default.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_3.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_3.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/leisure_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/leisure_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/walk_pressed.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/walk_pressed.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_logo_doub.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_logo_doub.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/select_shop.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/select_shop.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_logo_renren.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_logo_renren.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/num_1.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/num_1.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/activity_list_bg_.9.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/activity_list_bg_.9.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_miyu.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_miyu.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/basin.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/basin.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/guide_click.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/guide_click.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_tiaowu.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_tiaowu.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/guide_quick.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/guide_quick.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/game_mail.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/game_mail.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/person_collect.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/person_collect.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/comment_star_gray.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/comment_star_gray.png"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable-hdpi-v4/umeng_share_face_11.png",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable-hdpi/umeng_share_face_11.png"
+    }
+]

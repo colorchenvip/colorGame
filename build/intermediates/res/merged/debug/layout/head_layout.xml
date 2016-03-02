@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="55dp"
+    android:background="@color/blue" >
+
+    <TextView
+        android:id="@+id/main_text"
+        style="@style/title"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/action_settings01" />
+
+    <LinearLayout
+        android:id="@+id/head_back"
+        android:layout_width="50dp"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:visibility="visible" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/click_back" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/right"
+        style="@style/size_18_white"
+        android:layout_width="60dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical|right"
+        android:layout_marginRight="10dp"
+        android:background="@null"
+        android:gravity="center"
+        android:visibility="gone" />
+    <TextView
+        android:id="@+id/empty"
+        style="@style/size_14_white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|right"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/selct"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/tool"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/collection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+
+</FrameLayout>

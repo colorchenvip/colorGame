@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="xhdpi"
+    format="3"
+    timestamp="1456072106135745000" >
+
+    <task
+        name="javac"
+        duration="2960" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="423" />
+    <task
+        name="verifier"
+        duration="30" />
+
+    <artifact
+        location="/Users/color/workspace/eclipse_colorwork/ColorGame/build/outputs/apk/ColorGame-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1456072106135745000" >
+        <artifact
+            location="/Users/color/workspace/eclipse_colorwork/ColorGame/build/outputs/apk/ColorGame-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

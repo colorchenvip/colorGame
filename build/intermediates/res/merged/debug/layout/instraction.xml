@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray001"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        layout="@layout/head_layout" />
+
+    <TextView
+        style="@style/size_18_gray006"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="使用说明：" />
+
+    <View
+        style="@style/line"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/gray004"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@color/gray001"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/size_14_gray006"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="游戏一：\n 1：选在多少粒；\n 2：上下摇晃手机或是直接点击界面上的按钮。\n\n" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_weight="0.88"
+            android:background="@color/gray001"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/size_14_gray006"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="游戏二：\n 1：小伙伴们约定好规定；\n 2：直接点击界面上的开始按钮。\n\n" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        style="@style/size_14_gray006"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="本版解释权：归color.com所有。\n" />
+
+</LinearLayout>

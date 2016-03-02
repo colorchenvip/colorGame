@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/country_layout.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/country_layout.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/dialog_share.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/dialog_share.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/game.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/game.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/diceitem.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/diceitem.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/head_layout.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/head_layout.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/activity_my_erweima.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/activity_my_erweima.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/triangle.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/triangle.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/app_welcome_page.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/app_welcome_page.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/layout/instraction.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/layout/instraction.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/listitem.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/listitem.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/shake_start.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/shake_start.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/dice.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/dice.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/bg_checkbox_menus.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/bg_checkbox_menus.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/triangle.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/triangle.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/wine_game.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/wine_game.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/game_start.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/game_start.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/click_back.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/click_back.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/dialog_share.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/dialog_share.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/drawable/dot_normal.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/drawable/dot_normal.xml"
+    }
+]

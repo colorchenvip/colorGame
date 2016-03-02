@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/push_right_in.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/push_right_in.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/push_top_out2.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/push_top_out2.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/cycle_7.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/push_right_out.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/push_right_out.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/push_top_in2.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/push_top_in2.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/myown_design_bak.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/myown_design_bak.xml"
+    },
+    {
+        "merged": "/Users/color/workspace/eclipse_colorwork/ColorGame/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/Users/color/workspace/eclipse_colorwork/ColorGame/res/anim/push_left_in.xml"
+    }
+]
