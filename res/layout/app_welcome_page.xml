@@ -3,8 +3,15 @@
     android:id="@+id/app_welcome_view"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="horizontal"
-    android:background="@drawable/git_star"
-    tools:context=".AppStart" >
+    android:background="@drawable/logo_bg"
+    tools:context="com.color.WelcomePage" >
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_vertical"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:text="@string/tip_welcome_word"/>
 </LinearLayout>
